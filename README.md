@@ -35,19 +35,3 @@ To run on Android, do the following command:
 ```
 yarn run android
 ```
-
-## Unit test and Code coverage:
-
-The simplest way to run the JavaScript test suite is by using the following command at the root of your React Native checkout:
-
-```
-npm test
-```
-or
-
-```
-npm test -- --coverage
-```
-
-
-
